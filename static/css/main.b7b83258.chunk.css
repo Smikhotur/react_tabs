@@ -1,0 +1,2 @@
+.button{border:none;cursor:pointer;margin:10px;font-size:26px;background-color:inherit}.button:focus{outline:none;border-color:#504e4e #817d7d #fff;border-style:solid;border-width:1px 1px 4px;border-top-left-radius:3px;border-top-right-radius:3px}.button:focus:before{left:0}.button:focus:after,.button:focus:before{content:"";display:block;width:100%;height:1px;background-color:#817d7d;position:absolute;z-index:-1;bottom:28.5px}.app{position:relative;width:850px;margin:0 auto;overflow:hidden}
+/*# sourceMappingURL=main.b7b83258.chunk.css.map */
